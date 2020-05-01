@@ -63,4 +63,4 @@ SOURCES += src/qwt3d_extglwidget.cpp \
     src/qwt3d_gridplot.cpp \
     src/qwt3d_meshplot.cpp \
     src/qwt3d_io_gl2ps.cpp \
-    3rdparty/gl2ps/gl2ps.c
+    3rdparty/gl2ps/gl2ps.cpp
